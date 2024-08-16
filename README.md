@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhimanyu-Kumar
 -    I’m currently Working in Wipro as A Project Engineer 
--    Technical Skills: C++ , DSA algo , HTML ,CSS , BootStrap ,Javascript, java , Springboot , Microservices , RestApi
+-    Technical Skills: C++ , DSA  , HTML ,CSS , BootStrap ,Javascript, java , Springboot , Microservices , RestApi
 - 💞️ I’m looking to get opportunity .
 - 📫 Phone: 8210583167 
      mail: abhimanyu.raj1741@gmail.com
